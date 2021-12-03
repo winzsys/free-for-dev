@@ -1525,5 +1525,5 @@ HTML Themes and UI Kits to create your applications faster!
   * [SmallDev.tools](https://smalldev.tools/) — A free tool for developers that allows you to Encode/Decode various formats, Minify HTML/CSS/Javascript, Beautify, Generate Fake/Testing real like dataset in JSON/CSV & multiple other formats and many more features. With a delightful interface.
 
 End Note by winzsys :
-* put [winzsys] wherever made a change to track modifications from original content.
+* I have tagged [winzsys] wherever I made a change to track modifications from original content, This is for personal use, Go through Original Awesome list which is really AWESOME.
 **[⬆ back to top](#table-of-contents)**
