@@ -375,7 +375,7 @@ Table of Contents
 
 **[⬆ back to top](#table-of-contents)**
 
-## CMS
+## CMS [winzsys] Content Management System
 
   * [acquia.com](https://www.acquia.com/) — Hosting for Drupal sites. Free tier for developers. Free development tools (such as Acquia Dev Desktop) also available
   * [Contentful](https://www.contentful.com/) — Headless CMS. Content management and delivery APIs in the cloud. Comes with one free Community space that includes 5 users, 25K records, 48 Content Types, 2 locales.
@@ -450,7 +450,7 @@ Table of Contents
 
 **[⬆ back to top](#table-of-contents)**
 
-## CI and CD
+## CI and CD [winzsys] Continuous Integration and Continuous Delivery / Continuous Deployment
 
   * [AccessLint](https://github.com/marketplace/accesslint) — AccessLint brings automated web accessibility testing into your development workflow. It's free for open source and education purposes.
   * [appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators. 20 minutes build timeout (60 mins for Open Source) with single concurrency for free.
@@ -508,7 +508,7 @@ Table of Contents
 
 **[⬆ back to top](#table-of-contents)**
 
-## Security and PKI
+## Security and PKI [winzsys] Public Key Infrastructure
 
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) — Uncovers compromised systems in your network
   * [atomist.com](https://atomist.com/) — A quicker and more convenient way to automate a variety of development tasks. Now in beta.
@@ -867,7 +867,7 @@ Table of Contents
 
 **[⬆ back to top](#table-of-contents)**
 
-## PaaS
+## PaaS [winzsys] Platform as a service
 
   * [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps.
   * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
@@ -897,7 +897,7 @@ Table of Contents
 
 **[⬆ back to top](#table-of-contents)**
 
-## BaaS
+## BaaS [winzsys] Backend as a Service including [MbaaS] Mobile Backend as a Service
 
   * [ably.com](https://www.ably.com) - APIs for realtime messaging, push notifications, and event-driven API creation. Free plan has 3m messages/mo, 100 concurrent connections, 100 concurrent channels.
   * [back4app.com](https://www.back4app.com) - Back4App is an easy-to-use, flexible and scalable backend based on Parse Platform.
@@ -1003,7 +1003,7 @@ Table of Contents
 
 **[⬆ back to top](#table-of-contents)**
 
-## DBaaS
+## DBaaS [winasyz] Database as a Service
 
    * [airtable.com](https://airtable.com/) — Looks like a spreadsheet, but it's a relational database, unlimited bases, 1,200 rows/base and 1,000 API requests/month
    * [Astra](https://www.datastax.com/products/datastax-astra/) — Cloud Native Cassandra as a Service with [80GB free tier](https://www.datastax.com/products/datastax-astra/pricing)
@@ -1524,6 +1524,6 @@ HTML Themes and UI Kits to create your applications faster!
   * [Web.Dev](https://web.dev/measure/) — This is a free tool that allows you to see the performance of your website and improve the SEO to get higher rank list in search engines.
   * [SmallDev.tools](https://smalldev.tools/) — A free tool for developers that allows you to Encode/Decode various formats, Minify HTML/CSS/Javascript, Beautify, Generate Fake/Testing real like dataset in JSON/CSV & multiple other formats and many more features. With a delightful interface.
 
-End not winzsys
-* keep this visible winzsys
+End Note by winzsys :
+* put [winzsys] wherever made a change to track modifications from original content.
 **[⬆ back to top](#table-of-contents)**
